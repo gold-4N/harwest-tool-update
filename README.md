@@ -10,6 +10,7 @@ automating the entire process of collecting and organizing your code submissions
 Here's a sample repository created using Harwest: [harwest-sample](https://github.com/walid123780/Problem-Solving)
 
 # 📦 *Harwest Update ⛏
+  _contributed by [Md. Assadujjaman Noor](https://github.com/gold-4N) and [Ashik Billah Walid](https://github.com/walid123780)_
 #### Harwest automates collecting and organizing code submissions from different online judges into a single Git repository, simplifying management for users.
 #### Harwest has lacked proper maintenance for a significant period.
 * During this time, various advancements have occurred in programming.
@@ -17,8 +18,8 @@ Here's a sample repository created using Harwest: [harwest-sample](https://githu
 * However, Harwest does not update these versions, leading users to encounter language version errors.
 #### Atcoder recently changed its API.
 * Despite this change, Harwest has not updated its integration with the new Atcoder API.
-* Consequently, users face difficulties when attempting to push their submissions with Atcoder.
-  contributed by [Md. Assadujjaman Noor](https://github.com/gold-4N) and [Ashik Billah Walid](https://github.com/walid123780)
+* Consequently, users face difficulties when attempting to push their submissions with Atcoder.\
+
 ## Highlights
 * Fully automated collection of all yours submissions with minimal effort setup
 * Simple and easy to use interface to get you started in minutes
