@@ -1,14 +1,3 @@
-# 📦 Harwest ⛏
-
-[![PyPI](https://img.shields.io/pypi/v/harwest.svg)](https://pypi.python.org/pypi/harwest)
-[![Downloads](https://pepy.tech/badge/harwest)](https://pepy.tech/project/harwest)
-[![PyPI](https://img.shields.io/pypi/l/harwest.svg)](https://github.com/nileshsah/harwest-tool/blob/master/LICENSE)
-
-**Harwest** takes away the hassle of managing your submission files on different online-judges by
-automating the entire process of collecting and organizing your code submissions in one single Git repository.
-
-Here's a sample repository created using Harwest: [harwest-sample](https://github.com/walid123780/Problem-Solving)
-
 # 📦 *Harwest Update ⛏
   _contributed by [Md. Assadujjaman Noor](https://github.com/gold-4N) and [Ashik Billah Walid](https://github.com/walid123780)_
 #### Harwest automates collecting and organizing code submissions from different online judges into a single Git repository, simplifying management for users.
@@ -19,6 +8,18 @@ Here's a sample repository created using Harwest: [harwest-sample](https://githu
 #### Atcoder recently changed its API.
 * Despite this change, Harwest has not updated its integration with the new Atcoder API.
 * Consequently, users face difficulties when attempting to push their submissions with Atcoder.\
+
+
+# 📦 Harwest ⛏
+
+[![PyPI](https://img.shields.io/pypi/v/harwest.svg)](https://pypi.python.org/pypi/harwest)
+[![Downloads](https://pepy.tech/badge/harwest)](https://pepy.tech/project/harwest)
+[![PyPI](https://img.shields.io/pypi/l/harwest.svg)](https://github.com/nileshsah/harwest-tool/blob/master/LICENSE)
+
+**Harwest** takes away the hassle of managing your submission files on different online-judges by
+automating the entire process of collecting and organizing your code submissions in one single Git repository.
+
+Here's a sample repository created using Harwest: [harwest-sample](https://github.com/walid123780/Problem-Solving)
 
 ## Highlights
 * Fully automated collection of all yours submissions with minimal effort setup
