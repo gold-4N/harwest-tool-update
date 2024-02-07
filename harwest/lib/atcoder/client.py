@@ -57,7 +57,7 @@ class AtcoderClient:
     def get_user_submissions(self, page_index):
         # Fetch submission list for the user using Kenkoooo API
         base_url = "https://kenkoooo.com/atcoder/atcoder-api/v3/user/submissions?user={}&from_second={}".format(
-            self.user,
+            self.user,0,
         )
         response = self.__http_get(base_url).json()
         if response is None or not len(response):
