@@ -18,6 +18,7 @@ Here's a sample repository created using Harwest: [harwest-sample](https://githu
 #### Atcoder recently changed its API.
 * Despite this change, Harwest has not updated its integration with the new Atcoder API.
 * Consequently, users face difficulties when attempting to push their submissions with Atcoder.
+  contributed by [Md. Assadujjaman Noor](https://github.com/gold-4N) and [Ashik Billah Walid](https://github.com/walid123780)
 ## Highlights
 * Fully automated collection of all yours submissions with minimal effort setup
 * Simple and easy to use interface to get you started in minutes
