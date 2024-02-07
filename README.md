@@ -37,7 +37,7 @@ The package is available at <https://pypi.python.org/pypi/harwest> [![PyPI](http
 
 Run the following command in the terminal to install the package:
 ```bash
-$ pip3 install harwest
+$ python setup.py install
 ```
 
 
