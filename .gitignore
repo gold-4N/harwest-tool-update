@@ -1,0 +1,18 @@
+# Ignore all files
+*
+
+# Except the following files
+!.gitignore
+!harwest
+!harwest/**
+!README.md
+!requirements.txt
+!setup.py
+!MANIFEST.in
+!harwest-runner.py
+!LICENSE
+
+# Still ignore these files
+__pycache__
+*.pyc
+harwest/lib/resources/setup.json
