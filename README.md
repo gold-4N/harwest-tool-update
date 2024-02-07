@@ -37,7 +37,7 @@ The package is available at <https://pypi.python.org/pypi/harwest> [![PyPI](http
 
 Run the following command in the terminal to install the package:
 ```bash
-$ python setup.py install
+$ pip install -r requirements.txt
 ```
 
 
@@ -45,7 +45,7 @@ $ python setup.py install
 
 After installing the package, run the following command in the terminal:
 ```bash
-$ harwest
+$ python harwest-runner.py
 ```
 
 In case you're using Harwest for the first time, you'd be greeted with a set of configuration steps
