@@ -9,7 +9,7 @@ automating the entire process of collecting and organizing your code submissions
 
 Here's a sample repository created using Harwest: [harwest-sample](https://github.com/walid123780/Problem-Solving)
 
-# 📦 Harwest Update ⛏
+# 📦 *Harwest Update ⛏
 #### Harwest automates collecting and organizing code submissions from different online judges into a single Git repository, simplifying management for users.
 #### Harwest has lacked proper maintenance for a significant period.
 * During this time, various advancements have occurred in programming.
@@ -34,15 +34,40 @@ Harwest currently has extensive support for the following platforms:
 
 while integration with various other OJs are still in the kitchen. Contributions are always welcomed.
 
+## Github Repo & Git Setup
+To create a repo on GitHub:
+```bash
+1. Sign in.
+2. Go to your profile.
+3. Click "Repositories."
+4. Click "New."
+5. Enter repo details.
+6. Choose options.
+7. Click "Create Repository."
+```
+To set up Git, follow these basic steps:
+#### 1. Install Git:
 
-## Installation
+* Download and install Git from the official website: [Git Downloads](https://git-scm.com/downloads)
+* Follow the installation instructions for your operating system.
+#### 2. Configure Git:
+Open a terminal or command prompt and set up your Git user name and email using the following commands:
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+```
+#### 3. Check Configuration:
+You can verify your Git configuration by using the command:
+```bash
+git config --list
+```
+## Harwest Update Installation
 
 You will require `Python 3.5+` along with `pip3` in order to be able to install and use Harwest.
 Refer to the documentation for installing `pip` on [windows](https://phoenixnap.com/kb/install-pip-windows), 
 [ubuntu/linux](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu) or
 [macOS](https://docs.python-guide.org/starting/install3/osx/)
 
-The package is available at <https://pypi.python.org/pypi/harwest> [![PyPI](https://img.shields.io/pypi/v/harwest.svg)](https://pypi.python.org/pypi/harwest)
 
 Run the following command in the terminal to install the package:
 ```bash
