@@ -1,5 +1,5 @@
 # 📦 *Harwest Update ⛏
-  _contributed by [Md. Assadujjaman Noor](https://github.com/gold-4N) and [Ashik Billah Walid](https://github.com/walid123780)_
+  _contributed by [Md. Assadujjaman Noor](https://github.com/gold-4N) 
 #### Harwest automates collecting and organizing code submissions from different online judges into a single Git repository, simplifying management for users.
 #### Harwest has lacked proper maintenance for a significant period.
 * During this time, various advancements have occurred in programming.
